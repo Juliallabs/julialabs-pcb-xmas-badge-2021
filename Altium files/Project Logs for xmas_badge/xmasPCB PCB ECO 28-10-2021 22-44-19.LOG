@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=BT?-1
+Removed Pin From Net: NetName=VCC Pin=BT?-2
+Removed Member From Class: ClassName=x_mas_esquemático Member=BT?
+Added Component: Designator=BT1(BATHLD-001)
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev1.0, Dec-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Low Profile SM Battery Holder, 20mm Lithium Cell, 21.1 x 15.3 x 4.2 mm Body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BATHLD-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev1.0, Dec-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Member To Class: ClassName=x_mas_esquemático Member=Component BT1 BAT-HLD-001
+Added Room: Name=x_mas_esquemático
